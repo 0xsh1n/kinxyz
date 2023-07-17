@@ -24,6 +24,6 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/kinxyz/kinxyz/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/kinxyz/kinxyz/preview/github-contribution-grid-snake.svg"
   />
 </picture>
