@@ -23,7 +23,7 @@
     srcset="https://raw.githubusercontent.com/kinxyz/kinxyz/preview/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="snake eating my contribution"
     src="https://raw.githubusercontent.com/kinxyz/kinxyz/preview/github-contribution-grid-snake.svg"
   />
 </picture>
