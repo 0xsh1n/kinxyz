@@ -8,8 +8,8 @@
  <img src="https://cdn.discordapp.com/attachments/1127160207160643584/1128735108661248020/ezgif.com-crop.gif"> 
  </p> 
   
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/800689202588811294)](https://discord.com/users/800689202588811294)
+*** # Discord's Information:
+[![Discord Presence](https://lanyard.cnrad.dev/api/800689202588811294theme=dark&bg=0D0D0D&animated=true&idleMessage=Prolly+sleeping)](https://discord.com/users/800689202588811294)
 
 
 <picture>
