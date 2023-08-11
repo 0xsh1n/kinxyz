@@ -10,7 +10,23 @@
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=friendlypumpkin&label=Profile%20views&color=0e75b6&style=flat" alt="kinxyz" /> <img src="https://img.shields.io/endpoint?color=black&logo=Android%20Studio&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpointv4" /> <p/> 
   
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kinxyz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+*** 
+ # Discord's Information: 
+ [![Discord Ahad](https://lanyard.cnrad.dev/api/839253601293172787?theme=dark&bg=0D0D0D&animated=true&idleMessage=Prolly+sleeping)](https://discord.com/users/839253601293172787) 
+  
+  
+ ```js 
+ const Ahad = userInfo({ 
+ username: "Ahd", 
+ discriminator: "3257", 
+ tag: "Ahad#3257", 
+ user_ID: "839253601293172787", 
+ servers_owned: 3, 
+ bots_owned: 2, 
+ bots_status: "verified bots", 
+ aka: "cruel, anar", 
+ }); 
+ ```
 
 <picture>
   <source
