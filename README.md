@@ -11,7 +11,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=friendlypumpkin&label=Profile%20views&color=0e75b6&style=flat" alt="kinxyz" /> <img src="https://img.shields.io/endpoint?color=black&logo=Android%20Studio&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpointv4" /> <p/> 
   
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:800689202588811294)](https://discord.com/users/:800689202588811294)
+[![Discord Presence](https://lanyard.cnrad.dev/api/800689202588811294)](https://discord.com/users/800689202588811294)
+
 
 <picture>
   <source
