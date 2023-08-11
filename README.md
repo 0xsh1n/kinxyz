@@ -3,8 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=Hello+World+!+%F0%9F%91%8B">
   <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
 </picture>
-
- - 🔭 I’m currently working on **Shop Assistant Bot** 
   
  <p align="center"> 
  <img src="https://cdn.discordapp.com/attachments/1127160207160643584/1128735108661248020/ezgif.com-crop.gif"> 
@@ -12,7 +10,7 @@
   
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=friendlypumpkin&label=Profile%20views&color=0e75b6&style=flat" alt="kinxyz" /> <img src="https://img.shields.io/endpoint?color=black&logo=Android%20Studio&logoColor=white&url=https%3A%2F%2Fraw.githubusercontent.com%2Frinxyzz%2Frinxyzz%2Fmain%2Fendpointv4" /> <p/> 
   
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinxyz&show_icons=true&locale=en" alt="kinxyz" /></p>
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=kinxyz&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 <picture>
   <source
