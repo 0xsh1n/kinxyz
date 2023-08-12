@@ -1,7 +1,7 @@
 
   
  <p align="center"> 
- <img src="https://cdn.discordapp.com/attachments/1127160207160643584/1128735108661248020/ezgif.com-crop.gif"> 
+ <img src="https://cdn.discordapp.com/attachments/1127160207160643584/1139829463270563930/output-onlinegiftools_1.gif"> 
 
  </p> 
 <p align="center">
