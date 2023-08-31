@@ -10,6 +10,11 @@ Hello World
  <img src="https://komarev.com/ghpvc/?username=kinxyz&color=grey"> 
  </p>
 
+<p  align="left"> 
+ Spotify 24/7 
+    </p> 
+  
+ ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=le3ensvjj5x10ade4fiyyatnd&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false) 
 
 <picture>
   <source
