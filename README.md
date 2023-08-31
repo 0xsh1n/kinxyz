@@ -4,7 +4,7 @@
  <img src="https://cdn.discordapp.com/attachments/1127160207160643584/1139829463270563930/output-onlinegiftools_1.gif"> 
 
  </p> 
-
+ <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=kinxyz&color=grey"> 
  </p>
 
