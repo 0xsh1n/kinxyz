@@ -4,6 +4,13 @@
  <img src="https://cdn.discordapp.com/attachments/1127160207160643584/1149695656483639377/637273165c6b1c33da5f3ec3eb83b9db.gif"> 
 
  </p> 
+
+<div align="center"> 
+ <!-- <a href="https://discord.com/users/202740603790819328" > --> 
+   <a href="https://thicc-thighs.de/" > 
+    <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  /> 
+   </a>
+</div>
  <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=kinxyz&color=grey"> 
  </p>
